@@ -31,10 +31,9 @@ I am a computer science student at the **University of Computer Studies, Monywa 
 <details>
   <summary> 🏆 <b>Edu-Shelf</b> (Click to expand)</summary>
   <br>
-  <img width="400" alt="Engineering Festival" src="<img width="905" height="1280" alt="photo_2026-06-27_21-21-43" src="https://github.com/user-attachments/assets/2fc2ba0e-b09c-4fab-b61b-a5c012e832bb" />
-" />
+  <img width="400" alt="Edu-Shelf" src="https://github.com/user-attachments/assets/2fc2ba0e-b09c-4fab-b61b-a5c012e832bb" />
 </details>
----
+
 
 ### 💻 Development & Tech Projects 
 
