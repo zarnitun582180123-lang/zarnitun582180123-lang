@@ -13,10 +13,4 @@ I am a developer, and here are my project achievements and certifications.
 | <br> Venture Base Hackathon | <img width="1280" height="989" alt="photo_2026-06-27_15-15-56" src="https://github.com/user-attachments/assets/d182f350-0ce8-4698-92b3-f6fef46e91a1" />
 |
 
-| **တတိယ Project သို့မဟုတ် သင်တန်းအမည်** <br> (ဥပမာ - Hackathon 2026) | နေရာလွတ် (၃) |
-| **တတိယ Project သို့မဟုတ် သင်တန်းအမည်** <br> (ဥပမာ - Hackathon 2026) | နေရာလွတ် (၃) |
-| **တတိယ Project သို့မဟုတ် သင်တန်းအမည်** <br> (ဥပမာ - Hackathon 2026) | နေရာလွတ် (၃) |
-| **တတိယ Project သို့မဟုတ် သင်တန်းအမည်** <br> (ဥပမာ - Hackathon 2026) | နေရာလွတ် (၃) |
-| **တတိယ Project သို့မဟုတ် သင်တန်းအမည်** <br> (ဥပမာ - Hackathon 2026) | နေရာလွတ် (၃) |
-| **တတိယ Project သို့မဟုတ် သင်တန်းအမည်** <br> (ဥပမာ - Hackathon 2026) | နေရာလွတ် (၃) |
-| **တတိယ Project သို့မဟုတ် သင်တန်းအမည်** <br> (ဥပမာ - Hackathon 2026) | နေရာလွတ် (၃) |
+
