@@ -8,10 +8,10 @@ I am a computer science student at the **University of Computer Studies, Monywa 
 
 
 
-### 🚀 Hackathons & Competitions (ပြိုင်ပွဲဝင်ဆုတံဆိပ်များ)
+### 🚀 Hackathons & Competitions
 
 <details>
-  <summary>🥈 <b>Venture Base Hackathon</b> (Click to expand)</summary>
+  <summary>🏆 <b>Venture Base Hackathon</b> (Click to expand)</summary>
   <br>
   <img width="500" alt="Venture Base Hackathon" src="https://github.com/user-attachments/assets/d182f350-0ce8-4698-92b3-f6fef46e91a1" />
 </details>
@@ -30,35 +30,35 @@ I am a computer science student at the **University of Computer Studies, Monywa 
 
 ---
 
-### 💻 Development & Tech Projects (နည်းပညာနှင့် ပရောဂျက်များ)
+### 💻 Development & Tech Projects 
 
 <details>
-  <summary>🗺️ <b>Tour Directory</b> (Click to expand)</summary>
+  <summary> 🥇 <b>Tour Directory</b> (Click to expand)</summary>
   <br>
   <img width="500" alt="Tour Directory" src="https://github.com/user-attachments/assets/09454dd4-835c-4aa1-8a12-432c57da2a68" />
 </details>
 
 <details>
-  <summary>🏠 <b>Smart Home System</b> (Click to expand)</summary>
+  <summary> 🥇 <b>Smart Home System</b> (Click to expand)</summary>
   <br>
   <img width="400" alt="Smart Home System" src="https://github.com/user-attachments/assets/b1038e0a-be2d-40d9-b6f0-93de243dca7a" />
 </details>
 
 <details>
-  <summary>🛡️ <b>Safe Zone Collaboration</b> (Click to expand)</summary>
+  <summary> 🥇 <b>Safe Zone Collaboration</b> (Click to expand)</summary>
   <br>
   <img width="400" alt="Safe Zone Collaboration" src="https://github.com/user-attachments/assets/89367c1a-3bf0-4f0f-a2db-7a6c8444979b" />
 </details>
 
 <details>
-  <summary>🌾 <b>Agricultural Support System</b> (Click to expand)</summary>
+  <summary> 🥉 <b>Agricultural Support System</b> (Click to expand)</summary>
   <br>
   <img width="400" alt="Agricultural Support System" src="https://github.com/user-attachments/assets/29fc26f2-4d40-477e-b777-77ee4d488254" />
 </details>
 
 ---
 
-### 📚 Professional Certifications (သင်တန်းနှင့် အခြေခံလက်မှတ်များ)
+### 📚 Professional Certifications 
 
 <details>
   <summary>📱 <b>.NET Multi-Platform App UI (.NET MAUI)</b> (Click to expand)</summary>
