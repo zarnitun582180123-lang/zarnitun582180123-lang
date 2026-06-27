@@ -17,7 +17,7 @@ I am a computer science student at the **University of Computer Studies, Monywa 
 </details>
 
 <details>
-  <summary>🥉 <b>Science Festival Hackatom (Third Prize)</b> (Click to expand)</summary>
+  <summary>🥉 <b>Science Festival Hackatom </b> (Click to expand)</summary>
   <br>
   <img width="400" alt="Science Festival Hackatom" src="https://github.com/user-attachments/assets/61562af2-2be6-4427-8557-5b2ff47c0011" />
 </details>
