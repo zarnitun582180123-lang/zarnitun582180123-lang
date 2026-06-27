@@ -74,9 +74,13 @@ I am a computer science student at the **University of Computer Studies, Monywa 
 
 ---
 
-### 📊 My GitHub Participation & Contributions
+---
 
+### 📊 Detailed GitHub Analytics & Participation
+
+| 📈 My Contribution Stats | 💻 Most Used Languages |
+| --- | --- |
+| ![](https://github-readme-stats.vercel.app/api?username=zarnitun582180123-lang&show_icons=true&theme=tokyonight&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zarnitun582180123-lang&layout=compact&theme=tokyonight) |
+
+#### ⚡ Current GitHub Streak
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zarnitun582180123-lang&theme=tokyonight)
-
-🚀 **GitHub Activity Graph:**
-![](https://github-readme-activity-graph.vercel.app/graph?username=zarnitun582180123-lang&theme=tokyonight)
